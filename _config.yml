@@ -1,0 +1,28 @@
+name: 'ROBERT J. SMITH, MFA'
+favicon: null
+layout_spectrum: 0.8622253956273198
+typography_spectrum: 0.7381280213594437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.421860413858667
+  lightness: 0.3342015319503844
+  saturation: 0.705977899953723
+  rhythmicContrast: 0.6072575992438942
+purpose: []
